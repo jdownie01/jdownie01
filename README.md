@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jdownie01
+- 👀 I’m interested in embedded development and solving problems
+- 🌱 I’m currently learning C and Rust
+- 💞️ I’m looking to collaborate on any interesting projects
+- 📫 How to reach me: jakedownie8@gmail.com for personal matters. Anything school related can be directed to: jwd2488@rit.edu
